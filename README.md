@@ -10,6 +10,10 @@ Sample snippet of regression model built for Sky View Suites
 # and does not disclose any information about Sky View Suites
 # as this is a mere example of basic idea of the model.
 
+# This model is to evaluate if a suite is above or below average
+# price based on input features such as suite area, floor, rooms,
+# kitchen, etc. 
+
 # Author: Jin Cong Huang
 
 # imports
